@@ -1,0 +1,2 @@
+# yo
+http://yeoman.io/
